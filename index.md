@@ -13,7 +13,9 @@ Syntax highlighted code block
 [Click here for news](http://theguardian.com/uk)
 ## Header 2
 ### Header 3
-
+**workshop** | **electronics**
+------------- ---------------
+Subject      | *Subject*
 - Bulleted
 - List
 
