@@ -1,6 +1,11 @@
 ### Welcome to Build Brighton Test
 You can **use** the [editor on GitHub](https://github.com/James-BuildBrighton/James-BuildBrighton.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+
+**workshop** | **electronics**
+------------- ---------------
+Subject      | *Subject*
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -13,9 +18,7 @@ Syntax highlighted code block
 [Click here for news](http://theguardian.com/uk)
 ## Header 2
 ### Header 3
-**workshop** | **electronics**
-------------- ---------------
-Subject      | *Subject*
+
 - Bulleted
 - List
 
