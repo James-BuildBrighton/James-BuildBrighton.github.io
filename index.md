@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Click here for news](http://theguardian.com)
 
 ```markdown
 Syntax highlighted code block
-
 [Click here for news](http://theguardian.com/uk)
 ## Header 2
 ### Header 3
