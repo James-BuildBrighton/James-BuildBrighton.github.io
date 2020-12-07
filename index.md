@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-[Click here for news](https://www.theguardian.com/uk)
+[Click here for news](http://theguardian.com/uk)
 ## Header 2
 ### Header 3
 
